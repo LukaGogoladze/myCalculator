@@ -1,6 +1,7 @@
 # MyCalculator App
 
 MyCalculator is a simple Android calculator application that allows users to perform basic arithmetic operations.
+MAKE SURE TO DOWNLOAD myCalculator.zip FOR FULL ACCESS TO SOURCE CODE.
 
 ## Features
 
